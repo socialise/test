@@ -1,4 +1,5 @@
 	//改行するためだけのメソッドです。 
+
 	private static void newLine (int count){
 		
 		for(int i = 0; i < count; i++){
